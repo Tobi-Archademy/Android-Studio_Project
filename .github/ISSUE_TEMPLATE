@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD
 name: Android Basics Unit 3 issue
 about: Report problems with the Android Basics Unit 3 codelabs
 title: 'Android Basics Unit 3 issue:'
+=======
+name: 'Android Basics: Water Me! app'
+about: Describe this issue template's purpose here.
+title: 'Android Basics: Water Me! app'
+>>>>>>> 63d7c46 (A project with insight on Android WorkManager)
 labels: ''
 assignees: ''
 

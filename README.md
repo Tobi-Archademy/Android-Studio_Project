@@ -1,26 +1,43 @@
-# Words App
+Water Me - Starter Code
+==================================
 
-This folder contains the source code for the Words app codelab.
+Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
+with Unit 6 of Android Basics in Kotlin
+
+Introduction
+------------
+
+This is the starter code for the Water Me app project. This project is an opportunity for you to
+demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
+
+Pre-requisites
+--------------
+
+- Complete Unit 1 of Android Basics in Kotlin
+- Complete Project 1: Lemonade App
+- Complete Unit 2 of Android Basics in Kotlin
+- Complete Project 2: Dogglers
+- Complete Unit 3 of Android Basics in Kotlin
+- Complete Project 3: Lunch Tray
+- Complete Unit 4 of Android Basics in Kotlin
+- Complete Project 4: Amphibians
+- Complete Unit 5 of Android Basics in Kotlin
+- Complete Project 5: Forage
+- Complete Unit 6 of Android Basics in Kotlin
+
+Getting Started
+---------------
+
+1. Download the starter code
+2. Open the project in Android Studio
+3. Complete the project in accordance with the app requirements
 
 
-# Introduction
-Words app allows you to select a letter and use Intents to navigate to an Activity that
-presents a number of words starting with that letter. Each word can be looked up via a web search.
+Tasks
+---------------
 
-Words app contains a scrollable list of 26 letters A to Z in a RecyclerView. The orientation
-of the RecyclerView can be changed between a vertical list or a grid of items.
+Tips
+----
 
-The app demonstrates the use of Intents in two ways:
-* to navigate inside an app by specifying an explicit destination, and,
-* allowing Android to service the Intent using the apps and resources present on the device.
-
-# Pre-requisites
-* Experience with Kotlin syntax.
-* Able to create an Activity.
-* Able to create a RecyclerView and supply it with data.
-
-# Getting Started
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+- Use the provided tests to ensure your app is running as expected
+- DO NOT ALTER THE PROVIDED TESTS
