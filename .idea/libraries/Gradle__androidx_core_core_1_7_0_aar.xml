@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core:1.7.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/adacc4bbdca3c037c01e5031782c646c/transformed/core-1.7.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ec8778f597115131b77fc5968136215d/transformed/core-1.7.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/adacc4bbdca3c037c01e5031782c646c/transformed/core-1.7.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/adacc4bbdca3c037c01e5031782c646c/transformed/core-1.7.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/adacc4bbdca3c037c01e5031782c646c/transformed/core-1.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ec8778f597115131b77fc5968136215d/transformed/core-1.7.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ec8778f597115131b77fc5968136215d/transformed/core-1.7.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ec8778f597115131b77fc5968136215d/transformed/core-1.7.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,12 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.customview:customview:1.1.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/88590ae94b6f19dce5d57e5a4e003898/transformed/customview-1.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68a4aab19fb86bd9ccc36868437f5a3e/transformed/customview-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/68a4aab19fb86bd9ccc36868437f5a3e/transformed/customview-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/b0cbde3fdb6c0db7f9e0e5bbe61fd3f8/transformed/customview-1.1.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/b0cbde3fdb6c0db7f9e0e5bbe61fd3f8/transformed/customview-1.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/b0cbde3fdb6c0db7f9e0e5bbe61fd3f8/transformed/customview-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/373d7c9c4afdd2e91d2b73ab695530eb/transformed/customview-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/a93d0d5c29396bdfd7fa00ab496d7803/transformed/customview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/a93d0d5c29396bdfd7fa00ab496d7803/transformed/customview-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/a93d0d5c29396bdfd7fa00ab496d7803/transformed/customview-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

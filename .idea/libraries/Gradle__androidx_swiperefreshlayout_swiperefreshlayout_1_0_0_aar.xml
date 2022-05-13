@@ -1,12 +1,14 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/69dc0a67378ab50538a5a3a6c3578035/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/5b5ab91817c033c6eda11bfbb5e1d06d/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/69dc0a67378ab50538a5a3a6c3578035/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/69dc0a67378ab50538a5a3a6c3578035/transformed/swiperefreshlayout-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/69dc0a67378ab50538a5a3a6c3578035/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/851fa585262666567196b2ae90de88ff/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/5b5ab91817c033c6eda11bfbb5e1d06d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/5b5ab91817c033c6eda11bfbb5e1d06d/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/5b5ab91817c033c6eda11bfbb5e1d06d/transformed/swiperefreshlayout-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,9 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.arch.core:core-testing:2.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/0ae9b42b96f557a7eb8adebb22e9c3e4/transformed/core-testing-2.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/0ae9b42b96f557a7eb8adebb22e9c3e4/transformed/core-testing-2.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/0ae9b42b96f557a7eb8adebb22e9c3e4/transformed/core-testing-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/15cddd06b6a1171b8a4b7d4757f39f69/transformed/core-testing-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/71e600307db1ac7b3fc11c0cd7fb4258/transformed/core-testing-2.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/71e600307db1ac7b3fc11c0cd7fb4258/transformed/core-testing-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/71e600307db1ac7b3fc11c0cd7fb4258/transformed/core-testing-2.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/2537510cd9d1f9cd971695449a7cf1ff/transformed/coordinatorlayout-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/abaa8e6b9e94cb36a89a64549c9c4ebc/transformed/coordinatorlayout-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/2537510cd9d1f9cd971695449a7cf1ff/transformed/coordinatorlayout-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/2537510cd9d1f9cd971695449a7cf1ff/transformed/coordinatorlayout-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/2537510cd9d1f9cd971695449a7cf1ff/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/abaa8e6b9e94cb36a89a64549c9c4ebc/transformed/coordinatorlayout-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/abaa8e6b9e94cb36a89a64549c9c4ebc/transformed/coordinatorlayout-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/abaa8e6b9e94cb36a89a64549c9c4ebc/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

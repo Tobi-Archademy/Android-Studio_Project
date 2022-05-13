@@ -1,12 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ae153f83ce77cbb7db268a4b0cc0fdd6/transformed/vectordrawable-animated-1.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/da45c18c011aa07a2c35d048f7fdf329/transformed/vectordrawable-animated-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/da45c18c011aa07a2c35d048f7fdf329/transformed/vectordrawable-animated-1.1.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/3e95cf769ad47224fc976447c9a19c83/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/3e95cf769ad47224fc976447c9a19c83/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/3e95cf769ad47224fc976447c9a19c83/transformed/vectordrawable-animated-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/3fb7545ed38d9e5af7788db4f9129e6a/transformed/vectordrawable-animated-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ebcb8d26589d3a4d8c8f67899a1355c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ebcb8d26589d3a4d8c8f67899a1355c8/transformed/vectordrawable-animated-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/ebcb8d26589d3a4d8c8f67899a1355c8/transformed/vectordrawable-animated-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

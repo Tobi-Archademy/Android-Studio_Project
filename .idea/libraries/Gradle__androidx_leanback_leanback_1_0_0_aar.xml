@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.leanback:leanback:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/9a2d8bdab0a9edbc8657f42e677435fc/transformed/leanback-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/335042bcf7fff71d504f725bcdc614ef/transformed/leanback-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/9a2d8bdab0a9edbc8657f42e677435fc/transformed/leanback-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/9a2d8bdab0a9edbc8657f42e677435fc/transformed/leanback-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/9a2d8bdab0a9edbc8657f42e677435fc/transformed/leanback-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/335042bcf7fff71d504f725bcdc614ef/transformed/leanback-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/335042bcf7fff71d504f725bcdc614ef/transformed/leanback-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../gradle-7.2-bin/gradle-7.2/caches/transforms-3/335042bcf7fff71d504f725bcdc614ef/transformed/leanback-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
