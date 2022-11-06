@@ -32,7 +32,7 @@ class WaterReminderWorker(
 ) : Worker(context, workerParams) {
 
     // Arbitrary id number
-    val notificationId = 17
+    private val notificationId = 17
 
     override fun doWork(): Result {
         val intent = Intent(applicationContext, MainActivity::class.java).apply {

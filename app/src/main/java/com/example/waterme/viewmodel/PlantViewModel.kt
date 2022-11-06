@@ -50,8 +50,9 @@ class PlantViewModel(application: Application): ViewModel() {
     }
 }
 
+@Suppress("UNCHECKED_CAST")
 class PlantViewModelFactory(private val application: Application) : ViewModelProvider.Factory {
-    override fun <T : ViewModel?> create(modelClass: Class<T>): T {
+    override fun <T : ViewModel> create(modelClass: Class<T>): T {
         return if (modelClass.isAssignableFrom(PlantViewModel::class.java)) {
             PlantViewModel(application) as T
         } else {
